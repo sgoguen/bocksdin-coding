@@ -1,0 +1,26 @@
+{
+    "size": 0,
+    "head": null
+}
+
+
+{
+    "value": null,
+    "next": null
+}
+
+
+{
+    "size": 3,
+    "head": {
+        "value": 10,
+        "next": {
+            "value": 2,
+            "next": {
+                "value": 5,
+                "next": null
+            }
+        }
+    }
+}
+
